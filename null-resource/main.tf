@@ -4,3 +4,6 @@ resource "null_resource" "null" {
   e = g
   y = t
 }
+
+resource "null_resource" "null2" {
+}
